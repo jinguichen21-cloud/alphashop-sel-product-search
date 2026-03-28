@@ -1,0 +1,9 @@
+{
+  "name": "alphashop-sel-product-search",
+  "version": "1.0.0",
+  "description": "1688图片新品评估SKILL：根据1688商品图片或图片URL智能召回下游市场新品，并自动对比分析新品与同类目热销品的优势",
+  "scripts": {
+    "evaluate": "scripts/evaluate.py"
+  },
+  "env": []
+}
